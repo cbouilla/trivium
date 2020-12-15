@@ -17,7 +17,7 @@ The 32-bit version operates on 32-bit words and returns 32 pseudo-random bits.
 The 64-bit version operates on 64-bit words and returns 64 pseudo-random bits.
 
 The next output from the 64-bit version is the same as the next two outputs from
-the 32-bit version. Both versions run at >= 1GB/s on a recent laptop.
+the 32-bit version. The 64-bit version run at >= 1GB/s on a recent laptop.
 
 The generator takes a 64-bit seed and a 64-bit "sequence number" (this allows
 to generate independent sequences with the same seed).
