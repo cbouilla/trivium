@@ -8,6 +8,10 @@ stream cipher (i.e. a cryptographic-strength RNG) selected by eSTREAM  (part of
 the the EU ECRYPT project) to be part of a portfolio of secure  algorithms
 (https://www.ecrypt.eu.org/stream/). 
 
+More information about trivium is available at:
+
+	https://www.ecrypt.eu.org/stream/e2-trivium.html
+
 The two versions in this repository generate the same output as trivium's
 reference implementation.
 
